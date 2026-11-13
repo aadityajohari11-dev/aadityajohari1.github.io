@@ -4,28 +4,13 @@
 # To add a new book, copy everything from the dash (-) to the next dash
 # and fill in your book's details. Newest books should go at the top.
 
-- title: "The Midnight Garden"
-  cover: "images/midnight-garden.jpg"
-  tagline: "A novel about memory and forgetting"
-  description: "When Clara returns to her grandmother's house after twenty years, she discovers a garden that blooms only at night — and a family secret buried beneath its roots."
-  published: 2024
-  buy_links:
-    - label: "Amazon"
-      url: "https://amazon.com/dp/your-book-id"
-    - label: "Bookshop.org"
-      url: "https://bookshop.org/p/books/your-book-id"
-    - label: "Barnes & Noble"
-      url: "https://barnesandnoble.com/w/your-book-id"
-  featured: true
+- title: "Teacher by Destiny"
+  cover: "images/teacher-by-destiny.jpg"
+  tagline: "Some lessons aren't found in textbooks; they're written in fate."
+  description: "He never planned to become a teacher, yet fate had other designs. Through unexpected detours, unforgettable students, and life-altering moments inside and outside the classroom, one man discovers his true calling. Teacher by Destiny is an uplifting novel about purpose, second chances, and the quiet power of changing lives."
 
-- title: "Letters from the Peninsula"
-  cover: "images/letters-peninsula.jpg"
-  tagline: "A story of distance and devotion"
-  description: "An epistolary novel spanning three decades of correspondence between two friends separated by an ocean."
-  published: 2021
+  published: 2026
   buy_links:
-    - label: "Amazon"
-      url: "https://amazon.com/dp/your-book-id"
-    - label: "Bookshop.org"
-      url: "https://bookshop.org/p/books/your-book-id"
-  featured: false
+    - label: "Google Play Books"
+      url: "https://play.google.com/store/books/details/Aaditya_Raj_Johari_Teacher_by_Destiny?id=EWkjEgAAQBAJ"
+    - featured:true
