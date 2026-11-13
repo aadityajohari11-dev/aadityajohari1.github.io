@@ -3,7 +3,7 @@
 
 baseURL: "/"
 languageCode: "en-us"
-title: "Author Site"
+title: "Aaditya Raj Johari"
 theme: "inkwell"
 
 disableKinds:
@@ -11,7 +11,7 @@ disableKinds:
   - term
 
 params:
-  description: "Author website built with AuthorPage"
+  description: "Official website of Aaditya Raj Joahri,author of Teacher by Destinyand immersive genre stories "
 
 menu:
   main:
